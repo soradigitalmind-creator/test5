@@ -1,52 +1,12 @@
 [
   {
-    "slug": "automobile",
-    "title": "automobile",
-    "sources": 1000,
-    "subgenres": 81,
-    "entities": 1896,
-    "claims": 12,
-    "abstraction_label": "A family of automobile technologies.",
-    "updated_at": "2026-03-16T05:39:50.573618Z"
-  },
-  {
     "slug": "battery",
     "title": "battery",
-    "sources": 1017,
+    "sources": 1006,
     "subgenres": 84,
-    "entities": 167,
-    "claims": 31,
+    "entities": 851,
+    "claims": 84,
     "abstraction_label": "A family of battery technologies.",
-    "updated_at": "2026-03-16T08:20:11.709595Z"
-  },
-  {
-    "slug": "machine-learning",
-    "title": "machine learning",
-    "sources": 1001,
-    "subgenres": 82,
-    "entities": 1561,
-    "claims": 8,
-    "abstraction_label": "A family of machine learning technologies.",
-    "updated_at": "2026-03-16T07:22:40.468249Z"
-  },
-  {
-    "slug": "psychology",
-    "title": "psychology",
-    "sources": 1000,
-    "subgenres": 84,
-    "entities": 1144,
-    "claims": 0,
-    "abstraction_label": "A family of psychology technologies.",
-    "updated_at": "2026-03-16T05:31:03.678250Z"
-  },
-  {
-    "slug": "sensor",
-    "title": "sensor",
-    "sources": 1003,
-    "subgenres": 82,
-    "entities": 1753,
-    "claims": 13,
-    "abstraction_label": "A family of sensor technologies.",
-    "updated_at": "2026-03-16T06:45:51.181577Z"
+    "updated_at": "2026-03-16T10:10:35.793136Z"
   }
 ]
