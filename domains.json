@@ -17,7 +17,17 @@
     "entities": 860,
     "claims": 88,
     "abstraction_label": "A family of battery technologies.",
-    "updated_at": "2026-03-16T06:33:13.360525Z"
+    "updated_at": "2026-03-16T06:50:13.066626Z"
+  },
+  {
+    "slug": "machine-learning",
+    "title": "machine learning",
+    "sources": 1001,
+    "subgenres": 82,
+    "entities": 1566,
+    "claims": 8,
+    "abstraction_label": "A family of machine learning technologies.",
+    "updated_at": "2026-03-16T06:54:25.194678Z"
   },
   {
     "slug": "psychology",
@@ -37,6 +47,6 @@
     "entities": 1753,
     "claims": 13,
     "abstraction_label": "A family of sensor technologies.",
-    "updated_at": "2026-03-16T06:30:21.455626Z"
+    "updated_at": "2026-03-16T06:45:51.181577Z"
   }
 ]
