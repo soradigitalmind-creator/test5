@@ -18,5 +18,15 @@
     "claims": 8,
     "abstraction_label": "A family of machine learning technologies.",
     "updated_at": "2026-03-17T01:27:46.142174Z"
+  },
+  {
+    "slug": "sensor",
+    "title": "sensor",
+    "sources": 1026,
+    "subgenres": 82,
+    "entities": 1763,
+    "claims": 14,
+    "abstraction_label": "A family of sensor technologies.",
+    "updated_at": "2026-03-17T02:40:19.994433Z"
   }
 ]
