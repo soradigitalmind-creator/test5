@@ -8,5 +8,15 @@
     "claims": 84,
     "abstraction_label": "A family of battery technologies.",
     "updated_at": "2026-03-17T01:00:25.360105Z"
+  },
+  {
+    "slug": "machine-learning",
+    "title": "machine learning",
+    "sources": 1003,
+    "subgenres": 81,
+    "entities": 1564,
+    "claims": 8,
+    "abstraction_label": "A family of machine learning technologies.",
+    "updated_at": "2026-03-17T01:27:46.142174Z"
   }
 ]
