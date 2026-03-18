@@ -1,0 +1,46 @@
+[
+  {
+    "slug": "arificial-inteligent",
+    "title": "Arificial Inteligent",
+    "sources": 335,
+    "parent_subgenres": 7,
+    "child_subgenres": 72,
+    "entities": 805,
+    "claims": 10,
+    "abstraction_label": "A family of Arificial Inteligent technologies.",
+    "updated_at": "2026-03-18T02:57:43.343233Z"
+  },
+  {
+    "slug": "battery",
+    "title": "battery",
+    "sources": 1006,
+    "parent_subgenres": 12,
+    "child_subgenres": 72,
+    "entities": 860,
+    "claims": 86,
+    "abstraction_label": "A family of battery technologies.",
+    "updated_at": "2026-03-18T02:41:27.812662Z"
+  },
+  {
+    "slug": "power-generation",
+    "title": "power generation",
+    "sources": 1004,
+    "parent_subgenres": 12,
+    "child_subgenres": 72,
+    "entities": 1424,
+    "claims": 23,
+    "abstraction_label": "A family of power generation technologies.",
+    "updated_at": "2026-03-18T02:55:22.359070Z"
+  },
+  {
+    "slug": "sensor",
+    "title": "sensor",
+    "sources": 1026,
+    "parent_subgenres": 10,
+    "child_subgenres": 72,
+    "entities": 1765,
+    "claims": 14,
+    "abstraction_label": "A family of sensor technologies.",
+    "updated_at": "2026-03-18T02:47:35.411497Z"
+  }
+]
