@@ -22,6 +22,50 @@
     "updated_at": "2026-03-18T02:41:27.812662Z"
   },
   {
+    "slug": "computer-networks",
+    "title": "Computer Networks",
+    "sources": 1122,
+    "parent_subgenres": 11,
+    "child_subgenres": 72,
+    "entities": 1757,
+    "claims": 9,
+    "abstraction_label": "A family of Computer Networks technologies.",
+    "updated_at": "2026-03-18T04:09:37.037238Z"
+  },
+  {
+    "slug": "computer-science",
+    "title": "Computer Science",
+    "sources": 1009,
+    "parent_subgenres": 10,
+    "child_subgenres": 72,
+    "entities": 1209,
+    "claims": 13,
+    "abstraction_label": "A family of Computer Science technologies.",
+    "updated_at": "2026-03-18T05:14:19.743416Z"
+  },
+  {
+    "slug": "machine-learning",
+    "title": "Machine Learning",
+    "sources": 1003,
+    "parent_subgenres": 9,
+    "child_subgenres": 72,
+    "entities": 1567,
+    "claims": 8,
+    "abstraction_label": "A family of Machine Learning technologies.",
+    "updated_at": "2026-03-18T05:19:15.741871Z"
+  },
+  {
+    "slug": "networks",
+    "title": "Networks",
+    "sources": 1016,
+    "parent_subgenres": 12,
+    "child_subgenres": 72,
+    "entities": 1848,
+    "claims": 15,
+    "abstraction_label": "A family of Networks technologies.",
+    "updated_at": "2026-03-18T04:04:18.926074Z"
+  },
+  {
     "slug": "power-generation",
     "title": "power generation",
     "sources": 1004,
@@ -42,5 +86,16 @@
     "claims": 14,
     "abstraction_label": "A family of sensor technologies.",
     "updated_at": "2026-03-18T02:47:35.411497Z"
+  },
+  {
+    "slug": "water",
+    "title": "Water",
+    "sources": 1031,
+    "parent_subgenres": 12,
+    "child_subgenres": 72,
+    "entities": 1916,
+    "claims": 42,
+    "abstraction_label": "A family of Water technologies.",
+    "updated_at": "2026-03-18T03:59:07.492607Z"
   }
 ]
