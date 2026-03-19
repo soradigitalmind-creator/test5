@@ -1,5 +1,15 @@
 [
   {
+    "slug": "agriculture",
+    "title": "Agriculture",
+    "sources": 1015,
+    "subgenres": 84,
+    "entities": 1383,
+    "claims": 7,
+    "abstraction_label": "A family of Agriculture technologies.",
+    "updated_at": "2026-03-19T01:36:18.167834Z"
+  },
+  {
     "slug": "batterie",
     "title": "Batterie",
     "sources": 1033,
@@ -9,6 +19,16 @@
     "claims": 11,
     "abstraction_label": "A family of Batterie technologies.",
     "updated_at": "2026-03-18T07:00:53.341717Z"
+  },
+  {
+    "slug": "battery",
+    "title": "Battery",
+    "sources": 1007,
+    "subgenres": 84,
+    "entities": 861,
+    "claims": 85,
+    "abstraction_label": "A family of Battery technologies.",
+    "updated_at": "2026-03-19T01:16:03.829687Z"
   },
   {
     "slug": "biotechnology",
@@ -88,6 +108,16 @@
     "updated_at": "2026-03-18T06:25:12.100377Z"
   },
   {
+    "slug": "dentistry",
+    "title": "Dentistry",
+    "sources": 1004,
+    "subgenres": 80,
+    "entities": 1233,
+    "claims": 10,
+    "abstraction_label": "A family of Dentistry technologies.",
+    "updated_at": "2026-03-19T01:30:14.058629Z"
+  },
+  {
     "slug": "diagnostics",
     "title": "Diagnostics",
     "sources": 1030,
@@ -132,6 +162,26 @@
     "updated_at": "2026-03-18T07:21:45.384692Z"
   },
   {
+    "slug": "environment",
+    "title": "Environment",
+    "sources": 1020,
+    "subgenres": 84,
+    "entities": 2338,
+    "claims": 0,
+    "abstraction_label": "A family of Environment technologies.",
+    "updated_at": "2026-03-19T02:02:12.433159Z"
+  },
+  {
+    "slug": "food-tech",
+    "title": "Food Tech",
+    "sources": 1311,
+    "subgenres": 83,
+    "entities": 2257,
+    "claims": 7,
+    "abstraction_label": "A family of Food Tech technologies.",
+    "updated_at": "2026-03-19T01:40:56.990551Z"
+  },
+  {
     "slug": "genetics",
     "title": "Genetics",
     "sources": 1002,
@@ -141,6 +191,16 @@
     "claims": 12,
     "abstraction_label": "A family of Genetics technologies.",
     "updated_at": "2026-03-18T07:30:29.534542Z"
+  },
+  {
+    "slug": "geoscience",
+    "title": "Geoscience",
+    "sources": 1003,
+    "subgenres": 78,
+    "entities": 1459,
+    "claims": 18,
+    "abstraction_label": "A family of Geoscience technologies.",
+    "updated_at": "2026-03-19T01:57:59.936570Z"
   },
   {
     "slug": "healthcare",
@@ -176,6 +236,16 @@
     "updated_at": "2026-03-18T07:54:55.600965Z"
   },
   {
+    "slug": "ion-battery",
+    "title": "Ion Battery",
+    "sources": 1001,
+    "subgenres": 83,
+    "entities": 715,
+    "claims": 316,
+    "abstraction_label": "A family of Ion Battery technologies.",
+    "updated_at": "2026-03-19T01:19:43.144994Z"
+  },
+  {
     "slug": "machine-learning",
     "title": "Machine Learning",
     "sources": 1003,
@@ -207,6 +277,16 @@
     "claims": 5,
     "abstraction_label": "A family of Material technologies.",
     "updated_at": "2026-03-18T07:10:44.293152Z"
+  },
+  {
+    "slug": "mathematics",
+    "title": "Mathematics",
+    "sources": 1003,
+    "subgenres": 80,
+    "entities": 1568,
+    "claims": 0,
+    "abstraction_label": "A family of Mathematics technologies.",
+    "updated_at": "2026-03-19T01:49:15.177554Z"
   },
   {
     "slug": "medicine",
@@ -264,6 +344,16 @@
     "updated_at": "2026-03-18T07:52:14.817049Z"
   },
   {
+    "slug": "nursing",
+    "title": "Nursing",
+    "sources": 1011,
+    "subgenres": 84,
+    "entities": 1091,
+    "claims": 0,
+    "abstraction_label": "A family of Nursing technologies.",
+    "updated_at": "2026-03-19T01:27:24.795025Z"
+  },
+  {
     "slug": "pharmaceuticals",
     "title": "Pharmaceuticals",
     "sources": 1020,
@@ -275,6 +365,16 @@
     "updated_at": "2026-03-18T07:36:43.185580Z"
   },
   {
+    "slug": "physics",
+    "title": "Physics",
+    "sources": 1005,
+    "subgenres": 84,
+    "entities": 1720,
+    "claims": 10,
+    "abstraction_label": "A family of Physics technologies.",
+    "updated_at": "2026-03-19T01:53:58.993925Z"
+  },
+  {
     "slug": "power-electronics",
     "title": "Power Electronics",
     "sources": 1000,
@@ -284,6 +384,16 @@
     "claims": 36,
     "abstraction_label": "A family of Power Electronics technologies.",
     "updated_at": "2026-03-18T07:04:03.589873Z"
+  },
+  {
+    "slug": "power-generation",
+    "title": "Power Generation",
+    "sources": 1004,
+    "subgenres": 84,
+    "entities": 1424,
+    "claims": 22,
+    "abstraction_label": "A family of Power Generation technologies.",
+    "updated_at": "2026-03-19T01:23:32.675110Z"
   },
   {
     "slug": "quantum-technology",
@@ -350,5 +460,25 @@
     "claims": 16,
     "abstraction_label": "A family of Toxicology technologies.",
     "updated_at": "2026-03-18T07:39:37.623913Z"
+  },
+  {
+    "slug": "veterinary",
+    "title": "Veterinary",
+    "sources": 1002,
+    "subgenres": 84,
+    "entities": 1264,
+    "claims": 0,
+    "abstraction_label": "A family of Veterinary technologies.",
+    "updated_at": "2026-03-19T01:33:00.549298Z"
+  },
+  {
+    "slug": "water",
+    "title": "Water",
+    "sources": 1032,
+    "subgenres": 84,
+    "entities": 1920,
+    "claims": 42,
+    "abstraction_label": "A family of Water technologies.",
+    "updated_at": "2026-03-19T01:45:37.291100Z"
   }
 ]
