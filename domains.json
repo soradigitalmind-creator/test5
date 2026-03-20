@@ -1,0 +1,27 @@
+[
+  {
+    "slug": "optics",
+    "title": "Optics",
+    "sources": 1002,
+    "effective_papers": 40,
+    "subgenres": 3,
+    "parent_subgenres": 2,
+    "child_subgenres": 1,
+    "entities": 1389,
+    "claims": 7,
+    "overview_source_ids": [],
+    "overview_partition_summary": {
+      "overview_papers": 0,
+      "topical_papers": 1002,
+      "total_papers": 1002,
+      "facet_counts": {
+        "none": 1002
+      },
+      "gemini_validation_enabled": false,
+      "gemini_validation_ready": false,
+      "title_phrase_candidates": 0
+    },
+    "abstraction_label": "A family of Optics technologies.",
+    "updated_at": "2026-03-20T23:38:39.756251Z"
+  }
+]
